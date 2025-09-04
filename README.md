@@ -14,13 +14,6 @@ The app is responsive and works across devices.
 
 ---
 
-## 📸 Preview
-
-### Desktop View  
-![Desktop Stopwatch](https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png)
-
-### Mobile View  
-![Mobile Stopwatch](https://assets.ccbp.in/frontend/react-js/stopwatch-sm-bg.png)
 
 ---
 
